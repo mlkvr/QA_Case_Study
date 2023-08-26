@@ -14,3 +14,10 @@ select first destination as from
 select first destination as to
     caseStudy.click to input
     caseStudy.click first destination
+
+select la destination as to
+    caseStudy.click to input
+    caseStudy.click la destination
+
+check the x number of flights text
+    caseStudy.check x number flights text

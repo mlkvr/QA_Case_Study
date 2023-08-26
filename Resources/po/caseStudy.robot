@@ -18,4 +18,8 @@ click first destination
 click to input
     utils.click  css=[class] > div:nth-of-type(2) button
 
+click la destination
+    utils.click  css=li:nth-of-type(7) > .flex > .ml-2.text-gray-500.truncate
 
+check x number flights text
+    utils.check  css=[class='mb-10']  2
